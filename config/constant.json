@@ -1,0 +1,7 @@
+{
+    "URL" : "mongodb://3.17.135.197:3500",
+    "PORT":3456,
+    "DB":"shoppy",
+    "COLLECTION":"shoppy-keeper"
+}
+
